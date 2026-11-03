@@ -126,6 +126,6 @@ with a camera. Each README has setup steps and a settings reference.
 ## About
 
 Built by Mark McKellar, who builds lab and clinical reporting systems by day.
-[LinkedIn](https://www.linkedin.com/in/mark-mckellar-050749a6) ·
+[LinkedIn](https://www.linkedin.com/in/mark-mckellar) ·
 [GitHub](https://github.com/markmckellar) ·
 [Other projects](https://markmckellar.github.io/)
