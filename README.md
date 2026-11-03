@@ -10,9 +10,9 @@ it's tested, the server, the web app, and the cloud deployment.
 
 <table>
   <tr>
-    <td><img src="docs/images/raccoon-at-the-door.gif" alt="A raccoon walks up to the pet door at night and paws at the flap" width="260"></td>
-    <td><img src="docs/images/dog-says-hello.gif" alt="A black and white border collie comes up close to the camera" width="260"></td>
-    <td><img src="docs/images/cat-comes-home.gif" alt="A tuxedo cat with a red collar walks across the deck and sits at the pet door" width="260"></td>
+    <td><img src="docs/images/raccoon-at-the-door.gif" alt="A raccoon walks up to the pet door at night and paws at the flap" width="240"></td>
+    <td><img src="docs/images/dog-says-hello.gif" alt="A black and white border collie comes up close to the camera" width="240"></td>
+    <td><img src="docs/images/cat-comes-home.gif" alt="A tuxedo cat with a red collar walks across the deck and sits at the pet door" width="240"></td>
   </tr>
   <tr>
     <td><b>2:14 am.</b> AI: <code>raccoon</code>. Everyone's phone gets a raccoon alert.</td>
