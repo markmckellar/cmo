@@ -8,6 +8,10 @@ Is it a person, a cat, a dog or a raccoon? A vision language model answers in a 
 footage is sent to an AI company. I built the whole system end to end: the camera software, the AI step and how
 it's tested, the server, the web app, and the cloud deployment.
 
+**The story behind it:** [Night Shift at the Pet Door](https://markmckellar.github.io/raccoons/) (raccoons, a nervous
+cat and ten RACCOON ALERTs) · [How it works](https://markmckellar.github.io/raccoons/how-it-works/) ·
+[The porch camera](https://markmckellar.github.io/raccoons/porch/)
+
 <table>
   <tr>
     <td><img src="docs/images/raccoon-at-the-door.gif" alt="A raccoon walks up to the pet door at night and paws at the flap" width="240"></td>
